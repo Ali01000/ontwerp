@@ -1,0 +1,16 @@
+# Ignore vendor (libraries)
+/vendor/
+
+# IDE/editor files
+/.idea/
+/.vscode/
+
+# OS files
+Thumbs.db
+desktop.ini
+
+# PHPUnit cache
+.phpunit.result.cache
+
+# Composer
+composer.lock
